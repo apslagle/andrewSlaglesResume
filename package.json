@@ -1,0 +1,26 @@
+{
+  "name": "andrew-slagles-resume",
+  "version": "1.0.0",
+  "description": "Node server to respond to API.AI queries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apslagle/andrewSlaglesResume.git"
+  },
+  "author": "Andrew Slagle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apslagle/andrewSlaglesResume/issues"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "morgan": "^1.8.1",
+    "nodemon": "^1.11.0",
+    "path": "^0.12.7"
+  },
+  "homepage": "https://github.com/apslagle/andrewSlaglesResume#readme"
+}
